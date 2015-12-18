@@ -27,7 +27,7 @@
 
 # March 2015
 
-[How We Build Apps](http://chaoticmoon.com) by [Chaotic Moon](http://twitter.com/@chaoticmoon)
+[How We Build Apps](http://chaoticmoon.com) by [Elliott Dahle](http://twitter.com/@DEDToRights) and [James Logan](https://www.linkedin.com/profile/view?id=ADEAABL6944BG4ZxdokZG1L3R-vCDCo0q853CmA)
 
 # April 2015
 
