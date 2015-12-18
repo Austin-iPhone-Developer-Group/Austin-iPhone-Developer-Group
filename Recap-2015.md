@@ -21,7 +21,7 @@
 
 [The Red Ace](https://itunes.apple.com/us/app/red-ace-blackjack-card-counting/id922233123?mt=8) by [Erik Person](http://twitter.com/@thaterikperson)
 
-[Mrs. Magic Mirror](https://docs.google.com/a/jackrabbitmobile.com/presentation/d/1N00yjlW_MaGGlKaaGfaWS5I24W6jIA5YcGWcLec3vv0/edit#slide=id.p) by [Grayson Smith](http://twitter.com/@graysonds)
+[Mrs. Magic Mirror](https://docs.google.com/a/jackrabbitmobile.com/presentation/d/1N00yjlW_MaGGlKaaGfaWS5I24W6jIA5YcGWcLec3vv0/edit#slide=id.p) by [Grayson Smith](http://twitter.com/@graysonds) and [Matt Wanninger](http://twitter.com/@MattWanninger)
 
 [Contacts App](https://github.com/DamienBell/MasonryScrollViewExample) by [Damien Bell](http://twitter.com/@damiensbell)
 
