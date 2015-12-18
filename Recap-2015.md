@@ -1,7 +1,7 @@
 
-> This year, 2015, was an exciting year for the **Austin iPhone Developer Group**.
+> This year, 2015, was an exciting year for the [**Austin iPhone Developer Group**](http://www.meetup.com/Austin-iPhone-Developer-Group/).
 >
-> We meet on the first Tuesday of every month. Each meeting includes at least one presentation along with dedicated time for talking with other attendees. 
+> We meet on the first Tuesday of every month. Each meeting includes at least one presentation along with dedicated time for talking with other attendees. The meetup is organized by [Jackrabbit](http://jackrabbitmobile.com) and hosted at [Capital Factory](http://capitalfactory.com).
 >
 > Here's to another great year of growing the Austin iOS developer community!
 >
