@@ -1,3 +1,11 @@
+> This year, 2016, was an exciting year for the [**Austin iPhone Developer Group**](http://www.meetup.com/Austin-iPhone-Developer-Group/).
+>
+> We meet on the first Tuesday of every month. Each meeting includes at least one presentation along with dedicated time for talking with other attendees. The meetup is hosted at [Capital Factory](http://capitalfactory.com).
+>
+> Here's to another great year of growing the Austin iOS developer community!
+>
+> -David Olesch
+
 # January 2016
 
 [Five Podcasts you should be listening to](http://www.slideshare.net/jackrabbitmobile/podcasts-for-ios-development-by-david-olesch) by [David Olesch](http://twitter.com/@davidolesch)
@@ -49,7 +57,7 @@ Apple Code Signing and Digital Certificates by [David Olesch](http://twitter.com
 
 [hipfit](https://hip.fit) app demo by [Truong-An Thai](https://www.linkedin.com/in/bithai/)
 
-MIDI player for iOS by [Juan Martinez](https://www.facebook.com/profile.php?id=574008266)
+[iClef](https://itunes.apple.com/us/app/iclef-sight-reading-note-recognition-your-way/id1182637915?mt=8) MIDI player for iOS by [Juan Martinez](https://www.facebook.com/profile.php?id=574008266)
 
 [doug Keyboard](https://itunes.apple.com/us/app/doug-keyboard/id1144337654?mt=8) by Douglas Lamb
 
