@@ -1,4 +1,4 @@
-> This year, 2016, was an exciting year for the [**Austin iPhone Developer Group**](http://www.meetup.com/Austin-iPhone-Developer-Group/).
+> This year, 2017, was an exciting year for the [**Austin iPhone Developer Group**](http://www.meetup.com/Austin-iPhone-Developer-Group/).
 >
 > We meet on the first Tuesday of every month. Each meeting includes at least one presentation along with dedicated time for talking with other attendees. The meetup is hosted at [Capital Factory](http://capitalfactory.com).
 >
