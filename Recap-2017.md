@@ -44,7 +44,7 @@ UI Modules for Parse by [David Olesch](http://twitter.com/@davidolesch)
 
 # August 2017
 
-[Realm World Tour](Realm World Tour) demo of open source client library and freemium self-hosted server side application by [Eric Maxwell](https://twitter.com/emmax)
+[Realm World Tour](http://realm.io/world-tour/) demo of open source client library and freemium self-hosted server side application by [Eric Maxwell](https://twitter.com/emmax)
 
 # September 2017
 
